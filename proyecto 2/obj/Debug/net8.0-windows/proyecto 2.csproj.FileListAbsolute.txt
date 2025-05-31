@@ -1,0 +1,27 @@
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\bin\Debug\net8.0-windows\proyecto 2.exe
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\bin\Debug\net8.0-windows\proyecto 2.deps.json
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\bin\Debug\net8.0-windows\proyecto 2.runtimeconfig.json
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\bin\Debug\net8.0-windows\proyecto 2.dll
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\bin\Debug\net8.0-windows\proyecto 2.pdb
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\obj\Debug\net8.0-windows\proyecto_2.Form1.resources
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\obj\Debug\net8.0-windows\proyecto 2.csproj.GenerateResource.cache
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\obj\Debug\net8.0-windows\proyecto 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\obj\Debug\net8.0-windows\proyecto 2.AssemblyInfoInputs.cache
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\obj\Debug\net8.0-windows\proyecto 2.AssemblyInfo.cs
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\obj\Debug\net8.0-windows\proyecto 2.csproj.CoreCompileInputs.cache
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\obj\Debug\net8.0-windows\proyecto 2.dll
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\obj\Debug\net8.0-windows\refint\proyecto 2.dll
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\obj\Debug\net8.0-windows\proyecto 2.pdb
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\obj\Debug\net8.0-windows\proyecto 2.genruntimeconfig.cache
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\obj\Debug\net8.0-windows\ref\proyecto 2.dll
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\bin\Debug\net8.0-windows\OpenAI.dll
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\obj\Debug\net8.0-windows\proyecto 2.csproj.AssemblyReference.cache
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\obj\Debug\net8.0-windows\proyecto_2.Properties.Resources.resources
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\obj\Debug\net8.0-windows\proyecto 2.csproj.Up2Date
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\bin\Debug\net8.0-windows\DotNetEnv.dll
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Proyecto 2 Angello\proyecto 2\proyecto 2\bin\Debug\net8.0-windows\Sprache.dll
